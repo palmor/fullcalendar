@@ -1,4 +1,12 @@
 
+# FORK NOTES
+This is the same version as the original with a small changes:
+- Extends the ICS fetch to support with credentials
+
+I need this to bypass the CORS to ICS
+
+if you have some request please do a request and I will try to do it.
+
 # FullCalendar
 
 Full-sized drag & drop calendar in JavaScript
